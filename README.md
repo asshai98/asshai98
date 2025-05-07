@@ -23,3 +23,24 @@
 | **Junior Frontend Developer** | Finbet | Oct 2021 – Dec 2022 | - Maintained Angular-based UIs with secure coding practices<br>- Engaged in continuous system-level R&D<br>- Enhanced web responsiveness and accessibility |
 | **Junior Solution Developer** | Engineering Software Lab | Apr 2021 – Sep 2021 | - Built Android apps using Kotlin<br>- Designed UIs and tested across multiple devices<br>- Completed internal mobile dev training program |
 | **Junior Developer in Training** | Engineering Software Lab | Jan 2021 – Mar 2021 | - Developed internal tools in Java<br>- Participated in R&D and technical training<br>- Completed early-career software engineering program |
+
+---
+
+## 🎨 Hobbies & Interests
+
+- ✏️ **Drawing** — digital and traditional mediums 
+- 🎮 **Gaming** — RPGs, dark fantasy, MOBAs
+- 🏐 **Sports** — fitness and hiking  
+- 📚 **Reading** — fiction, sci-fi, personal development, classics
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages:      Java, Python, JavaScript, TypeScript, C#
+🧰 Frameworks:     Spring Boot, Angular, ASP.NET, Node.js
+🛢️ Databases:      PostgreSQL, MongoDB, Oracle DB
+⚙️ DevOps:         Git, GitHub, Docker, Jenkins
+🧪 Testing:        JUnit, Selenium
+📈 Tools:          VS Code, IntelliJ, Eclipse, Postman, Figma
