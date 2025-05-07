@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Header](https://i.imgur.com/your-anime-banner.png](https://www.pinterest.com/pin/12173861488700070/)) 
+![Header]([https://i.imgur.com/your-anime-banner.png](https://www.pinterest.com/pin/12173861488700070/)](https://github.com/asshai98/asshai98/blob/main/banner.jpg)) 
 
 ## Hi there 👋, Welcome!
 
