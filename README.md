@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 Passionate about software development and continuous learning.
-- 🌱 Currently exploring different topics in web & software development and payments.
+- 🌱 Currently exploring different topics in software development and payments industry.
 - 📫 You can reach me at: [andjela.jo998@gmail.com](mailto:andjela.jo998@gmail.com)
 
 ---
