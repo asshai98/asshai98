@@ -12,7 +12,6 @@
 - 🌱 Currently exploring different topics in software development and payments industry.
 - 📫 You can reach me at: [andjela.jo998@gmail.com](mailto:andjela.jo998@gmail.com)
 
----
 
 | Role | Company | Duration | Highlights |
 |------|---------|----------|------------|
@@ -24,7 +23,6 @@
 
 🔗 [**More Info**](https://www.linkedin.com/in/an%C4%91elajovanovi%C4%87/) – Explore my full profile, work history etc.
 
----
 
 ## 🎨 Hobbies & Interests
 
@@ -33,7 +31,6 @@
 - 🏐 **Sports** — fitness  
 - 📚 **Reading** — fiction, personal development, classics
 
----
 
 ## 🛠️ Tech Stack
 
