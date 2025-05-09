@@ -30,8 +30,8 @@
 
 - ✏️ **Drawing** — digital and traditional mediums 
 - 🎮 **Gaming** — RPGs, dark fantasy, MOBAs
-- 🏐 **Sports** — fitness and hiking  
-- 📚 **Reading** — fiction, sci-fi, personal development, classics
+- 🏐 **Sports** — fitness  
+- 📚 **Reading** — fiction, personal development, classics
 
 ---
 
