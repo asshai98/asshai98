@@ -6,7 +6,6 @@
 [![DeviantArt](https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/asshaipixel)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%91elajovanovi%C4%87/)
 
----
 
 ## 🚀 About Me
 - 🎓 Passionate about software development and continuous learning.
